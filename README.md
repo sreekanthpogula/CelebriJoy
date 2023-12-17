@@ -2,8 +2,7 @@
 ## Tagline: "Ignite Your Birthday Celebration Beyond Boundaries"
 
 <div align="center">
-  <img src="https://github.com/sreekanthpogula.png" alt="CEO Profile Image" width="150" height="150" style="border-radius: 50%;" />
-  
+  <img src="https://images.pexels.com/photos/2531546/pexels-photo-2531546.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Birthday Cake Image" width="300" height="300" style="border-radius: 50%;" />
 </div>
 
 <div align="center">
